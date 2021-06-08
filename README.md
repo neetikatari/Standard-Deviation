@@ -1,7 +1,7 @@
 # Standard deviation
 ---
 
-#   \\sigma  = { $\sqrt {\frac {\sum(x_{i}-{\mu})^{2}}{N}}$} 
+#   \sigma  =  \sqrt {\frac {\sum(x_{i}-{\mu})^{2}}{N}} 
 
 
 
