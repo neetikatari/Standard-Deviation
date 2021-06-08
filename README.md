@@ -1,9 +1,6 @@
-# Standard_deviation
-solution for c105
-
-# standard deviation
+# Standard deviation
 ---
-#        $\sigma$  = { $\sqrt {\frac {\sum(x_{i}-{\mu})^{2}}{N}}$} 
+#   \\sigma  = { $\sqrt {\frac {\sum(x_{i}-{\mu})^{2}}{N}}$} 
 
 
 $\sigma$	=	population standard deviation
